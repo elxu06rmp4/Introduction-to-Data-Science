@@ -1,0 +1,20 @@
+---
+title: "Homework One"
+author: "Lian-Jun Gao"
+date: "2018年10月5日"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+這是作業一的題目與指令。
+
+```{r}
+1+1
+2*2
+85*2/10
+```
+
+
